@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GisellBustamante
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning hoe to be a front end developer with altimetrik
-- 💞️ I’m looking to collaborate on some proyects
+- 🌱 I’m currently learning on how to be a front end developer with altimetrik
+- 💞️ I’m looking to collaborate with some proyects
 - 📫 How to reach me only think on me
 
 <!---
